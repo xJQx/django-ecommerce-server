@@ -27,7 +27,7 @@ Filter and Watchlist:
 
 ## Demo
 
-<img src="django-ecommerce-server.gif" alt="django-ecomeerce-server.gif" width=500 />
+<img src="django-ecommerce-server.gif" alt="django-ecomeerce-server.gif" />
 
 <br />
 
